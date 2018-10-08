@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /************************************************************
 Title: Hw2 Assignment
 Due by:
@@ -12,3 +13,10 @@ Author: Michael Escue
 
 
 //Main( ) Program
+=======
+int main (void){
+	
+	
+	return 1;
+
+>>>>>>> master
